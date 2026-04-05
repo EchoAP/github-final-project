@@ -1,11 +1,20 @@
-This document outlines the guidelines for contributing to this repository.
+# Contributing Guidelines
 
-Code Style Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
+## How to Contribute
 
-Ensure contributions are well-documented. Include comments in your code where necessary and provide a clear and concise description of your changes in the pull request.
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit your changes with clear messages
+5. Push to your fork
+6. Open a Pull Request
 
-Test before submitting a pull request; Include relevant test cases and ensure that existing tests pass.
+## Code Style
 
-Check the issue tracker for any open issues or feature requests.
+- Keep code simple and readable
+- Use meaningful variable names
+- Add comments where necessary
 
-All contributions will go through a code review process. 
+## Reporting Issues
+
+If you find a bug or have a suggestion, please open an issue.
